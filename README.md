@@ -63,5 +63,7 @@ Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) do curs
 
 Caso tenha interesse em conhecer mais ou colaborar com o projeto, fique à vontade para entrar em contato!
 
+www.linkedin.com/in/f-l-t
+
 ---
 
